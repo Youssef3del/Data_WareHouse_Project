@@ -1,3 +1,3 @@
-# Sales_Data_WareHouse_Project
-## Building a modern Data WareHawse for sales.
+# Sales_Data_Warehouse_Project
+## Building a modern Data Warehawse for sales.
 ![Data Flow](docs/data_flow.png)
